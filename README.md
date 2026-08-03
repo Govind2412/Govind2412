@@ -140,9 +140,7 @@ Developer Tools
 📫 Connect with Me
 
 - Email: govindprasad8957@gmail.com
-- LinkedIn: 
-- GitHub: github.com/Govind2412
-
+- GitHub: https://github.com/Govind2412
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.## Hi there 👋
