@@ -10,15 +10,18 @@
   </a>
 </p>
 
+I'm a Computer Science graduate who enjoys turning data and models into things that actually work — from real-time computer vision systems to NLP pipelines and, increasingly, Generative AI applications. I like understanding a problem end-to-end: from cleaning and preparing data, to building and evaluating a model, to getting it running somewhere real.
+
 ---
 
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering, KTU (2021–2025)
-- ✅ **GATE 2026 Qualified** — Computer Science
-- 💼 Currently working as **AI Developer Intern @ Zecser Business LLP**, building ML/NLP pipelines on an AI-powered platform
-- 🧠 Interested in **Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI, LLMs, NLP, and Cloud Computing**
+- ✅ **GATE 2026 Qualified** — Computer Science, with strong fundamentals in DSA, DBMS, OS, CN, and Compiler Design
+- 💼 Currently working as **AI Developer Intern @ Zecser Business LLP**, building and integrating ML/NLP pipelines on an AI-powered platform, with exposure to model deployment and CI/CD workflows
+- 🧠 Interested in **Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI, LLMs, NLP, Data Science, and Cloud Computing**
 - 📚 Currently pursuing the **IBM Generative AI Engineering Professional Certificate** — covering LLMs, Prompt Engineering, and Fine-Tuning
+- 🎯 Completed a **Data Science, Machine Learning, Deep Learning & NLP Bootcamp**, covering preprocessing, feature engineering, and model building with Python, NumPy, Pandas, and Scikit-Learn
 - ⚡ Fun fact: I built an AI proctoring system that can catch you cheating in real time 👀
 
 ---
@@ -74,18 +77,23 @@
 ### 🌟 Featured Projects
 
 - **[AI-Driven Online Exam Proctoring System](https://github.com/YOUR-USERNAME/REPO-NAME)**
-  Real-time, multimodal proctoring system combining computer vision and audio-based detection — using YOLO, OpenCV, and Silero VAD to catch multiple persons, unauthorized objects, and unusual sounds/movement.
+  A real-time, multimodal proctoring system that combines computer vision and audio-based detection to monitor online exams. Uses YOLO and OpenCV to flag multiple persons and unauthorized objects, and Silero VAD to catch unusual sounds and movement — with SQL/MySQL powering the logging and analysis behind it.
   `Python` `YOLO` `OpenCV` `MySQL` `Silero VAD`
 
 - **[Sentiment Analysis in Movie Reviews](https://github.com/YOUR-USERNAME/REPO-NAME)**
-  Sequence-based NLP model using tokenization and embeddings to classify IMDB reviews — 90% accuracy, deployed on AWS EC2 for real-time inference.
+  A sequence-based NLP model built using tokenization and embedding techniques to classify IMDB movie reviews as positive or negative — reaching 90% accuracy and outperforming traditional ML baselines. Deployed on AWS EC2 so it can serve real-time predictions through a hosted application.
   `Python` `TensorFlow` `NLTK` `Scikit-Learn` `AWS EC2`
+
+> 💡 Pin these two repos on your profile (top-right of each repo → pin) so they show up right under this README.
 
 ---
 
 ### 💼 Currently
 
-Building ML and NLP pipelines at **Zecser Business LLP**, and exploring **Generative AI, RAG, and Agentic AI** through the **IBM Generative AI Engineering Professional Certificate**.
+- 🔭 Building and integrating **ML & NLP pipelines** at **Zecser Business LLP**
+- 🌱 Learning **Generative AI, RAG, and Agentic AI** through the IBM Generative AI Engineering Professional Certificate
+- 💬 Happy to talk about **Machine Learning, NLP, Computer Vision, or Generative AI**
+- 📈 Always looking to work on projects that go beyond notebooks and into something deployed and usable
 
 ---
 
