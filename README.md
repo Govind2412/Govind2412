@@ -16,7 +16,7 @@ I'm a Computer Science graduate who enjoys turning data and models into things t
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering, KTU (2021–2025)
+- 🎓 B.Tech in Computer Science & Engineering (KTU) 
 - ✅ **GATE 2026 Qualified** — Computer Science, with strong fundamentals in DSA, DBMS, OS, CN, and Compiler Design
 - 💼 Currently working as **AI Developer Intern @ Zecser Business LLP**, building and integrating ML/NLP pipelines on an AI-powered platform, with exposure to MLOps, model deployment, and CI/CD workflows
 - 🧠 Interested in **Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI, LLMs, NLP, Data Science, MLOps, and Cloud Deployment**
