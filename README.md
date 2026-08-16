@@ -81,8 +81,6 @@
   Sequence-based NLP model using tokenization and embeddings to classify IMDB reviews — 90% accuracy, deployed on AWS EC2 for real-time inference.
   `Python` `TensorFlow` `NLTK` `Scikit-Learn` `AWS EC2`
 
-> 💡 Pin these two repos on your profile (top-right of each repo → pin) so they show up right under this README.
-
 ---
 
 ### 💼 Currently
