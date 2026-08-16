@@ -1,161 +1,89 @@
-Hi 👋, I'm Govind Prasad
+<h1 align="center">Hi 👋, I'm Govind Prasad</h1>
+<h3 align="center">AI / ML Engineer | NLP & Deep Learning Enthusiast | GATE 2026 Qualified (CS)</h3>
 
-AI Developer | Machine Learning Enthusiast | Generative AI Learner
-
-I'm a Computer Science graduate passionate about Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Generative AI. I enjoy building intelligent systems that solve real-world problems and continuously improving my skills through projects, internships, and certifications.
-
----
-
-🎓 Education
-
-B.Tech in Computer Science & Engineering
-College of Engineering Kalloopara
-Kerala Technological University (KTU)
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:govindprasad8957@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-💼 Current Role
+### 🚀 About Me
 
-AI Developer Intern – Zecser Business LLP
-
-Working on ZecPath, an AI-powered hiring platform that uses Generative AI, Machine Learning, and NLP to automate resume screening, candidate interviews, and hiring workflows.
-
----
-
-🚀 Featured Projects
-
-AI-Driven Online Exam Proctoring System
-
-An intelligent online examination monitoring system capable of detecting suspicious activities in real time.
-
-Features
-
-- Multiple person detection
-- Unauthorized object detection
-- Head movement monitoring
-- Voice activity detection
-- AI-powered exam monitoring
-
-Tech Stack
-
-- Python
-- YOLO
-- OpenCV
-- MySQL
-- Silero VAD
+- 🎓 B.Tech in Computer Science & Engineering, KTU (2021–2025)
+- ✅ **GATE 2026 Qualified** — Computer Science
+- 💼 Currently working as **AI Developer Intern @ Zecser Business LLP**, building NLP/ML pipelines for automated resume screening
+- 🧠 Interested in **Generative AI, Machine Learning, NLP, Data Science & Cloud Computing**
+- 📚 Currently pursuing the **IBM Generative AI Engineering Professional Certificate**
+- ⚡ Fun fact: I built an AI proctoring system that can catch you cheating in real time 👀
 
 ---
 
-Sentiment Analysis using Deep Learning
+### 🛠️ Tech Stack
 
-Built a sentiment analysis model for movie reviews using Recurrent Neural Networks and NLP.
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
-Highlights
+**Libraries & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+</p>
 
-- Achieved around 90% accuracy
-- Trained on the IMDB dataset
-- Compared against traditional machine learning models
-
-Tech Stack
-
-- Python
-- TensorFlow
-- NLTK
-- Scikit-Learn
-- Jupyter Notebook
-
----
-
-🛠 Technical Skills
-
-Programming Languages
-
-- Python
-- C
-- SQL
-
-AI & Machine Learning
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
-
-Libraries & Frameworks
-
-- NumPy
-- Pandas
-- Scikit-Learn
-- TensorFlow
-- OpenCV
-- YOLO
-- LangChain
-- Hugging Face Transformers
-- Streamlit
-
-Developer Tools
-
-- Git
-- GitHub
-- VS Code
-- PyCharm
-- Jupyter Notebook
-- Google Colab
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+</p>
 
 ---
 
-📚 Certifications
+### 🌟 Featured Projects
 
-- GATE 2026 Qualified – Computer Science
-- IBM Generative AI Engineering Professional Certificate (In Progress)
-- Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp
+- **[AI-Driven Online Exam Proctoring System](https://github.com/YOUR-USERNAME/REPO-NAME)**
+  Real-time proctoring system using YOLO, OpenCV & Silero VAD to detect multiple persons, unauthorized objects, abnormal movement, and unusual sounds. Backed by SQL/MySQL for exam-log processing.
+  `Python` `YOLO` `OpenCV` `MySQL` `Silero VAD`
 
----
+- **[Sentiment Analysis in Movie Reviews](https://github.com/YOUR-USERNAME/REPO-NAME)**
+  RNN-based sentiment classifier for IMDB reviews — 90% accuracy, outperforming traditional ML baselines.
+  `Python` `TensorFlow` `NLTK` `Scikit-Learn`
 
-🌱 Currently Learning
-
-- Large Language Models (LLMs)
-- Prompt Engineering
-- AI Agents
-- Advanced RAG Systems
-- MLOps
-- Cloud Deployment for AI Applications
+> 💡 Pin these two repos on your profile (top-right of each repo → pin) so they show up right under this README.
 
 ---
 
-🎯 Interests
+### 📊 GitHub Stats
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Data Science
-- Generative AI
-- Data Structures & Algorithms
-- Operating Systems
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" height="165"/>
+</p>
 
 ---
 
-📫 Connect with Me
+### 📫 Reach Me
 
-- Email: govindprasad8957@gmail.com
-- GitHub: https://github.com/Govind2412
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.## Hi there 👋
-
-<!--
-**Govind2412/Govind2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 govindprasad8957@gmail.com
+- 📱 +91 8157983436
+- 🔗 LinkedIn — *add your link*
