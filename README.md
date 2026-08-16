@@ -10,7 +10,7 @@
   </a>
 </p>
 
-I'm a Computer Science graduate who enjoys turning data and models into things that actually work — from real-time computer vision systems to NLP pipelines and, increasingly, Generative AI applications. I like understanding a problem end-to-end: from cleaning and preparing data, to building and evaluating a model, to getting it running somewhere real.
+I'm a Computer Science graduate who enjoys turning data and models into things that actually work — from Machine Learning pipelines to NLP systems and, increasingly, Generative AI applications. I like understanding a problem end-to-end: from cleaning and preparing data, to building and evaluating a model, to getting it running somewhere real.
 
 ---
 
@@ -18,8 +18,8 @@ I'm a Computer Science graduate who enjoys turning data and models into things t
 
 - 🎓 B.Tech in Computer Science & Engineering, KTU (2021–2025)
 - ✅ **GATE 2026 Qualified** — Computer Science, with strong fundamentals in DSA, DBMS, OS, CN, and Compiler Design
-- 💼 Currently working as **AI Developer Intern @ Zecser Business LLP**, building and integrating ML/NLP pipelines on an AI-powered platform, with exposure to model deployment and CI/CD workflows
-- 🧠 Interested in **Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI, LLMs, NLP, Data Science, and Cloud Computing**
+- 💼 Currently working as **AI Developer Intern @ Zecser Business LLP**, building and integrating ML/NLP pipelines on an AI-powered platform, with exposure to MLOps, model deployment, and CI/CD workflows
+- 🧠 Interested in **Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI, LLMs, NLP, Data Science, MLOps, and Cloud Deployment**
 - 📚 Currently pursuing the **IBM Generative AI Engineering Professional Certificate** — covering LLMs, Prompt Engineering, and Fine-Tuning
 - 🎯 Completed a **Data Science, Machine Learning, Deep Learning & NLP Bootcamp**, covering preprocessing, feature engineering, and model building with Python, NumPy, Pandas, and Scikit-Learn
 - ⚡ Fun fact: I built an AI proctoring system that can catch you cheating in real time 👀
@@ -35,15 +35,13 @@ I'm a Computer Science graduate who enjoys turning data and models into things t
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-**Machine Learning & Deep Learning**
+**Machine Learning**
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
 </p>
 
@@ -58,13 +56,20 @@ I'm a Computer Science graduate who enjoys turning data and models into things t
   <img src="https://img.shields.io/badge/Agentic%20AI-1F883D?style=flat-square" />
 </p>
 
+**MLOps & Cloud Deployment**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-2C3E50?style=flat-square" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
+
 **Tools & Platforms**
 <p>
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
@@ -77,8 +82,8 @@ I'm a Computer Science graduate who enjoys turning data and models into things t
 ### 🌟 Featured Projects
 
 - **[AI-Driven Online Exam Proctoring System](https://github.com/YOUR-USERNAME/REPO-NAME)**
-  A real-time, multimodal proctoring system that combines computer vision and audio-based detection to monitor online exams. Uses YOLO and OpenCV to flag multiple persons and unauthorized objects, and Silero VAD to catch unusual sounds and movement — with SQL/MySQL powering the logging and analysis behind it.
-  `Python` `YOLO` `OpenCV` `MySQL` `Silero VAD`
+  A real-time AI monitoring system that uses trained ML models to flag multiple persons, unauthorized objects, and unusual sounds or movement during online exams. SQL/MySQL powers the logging and analysis layer behind it, turning raw model outputs into structured exam-monitoring data.
+  `Python` `Machine Learning` `MySQL`
 
 - **[Sentiment Analysis in Movie Reviews](https://github.com/YOUR-USERNAME/REPO-NAME)**
   A sequence-based NLP model built using tokenization and embedding techniques to classify IMDB movie reviews as positive or negative — reaching 90% accuracy and outperforming traditional ML baselines. Deployed on AWS EC2 so it can serve real-time predictions through a hosted application.
@@ -92,7 +97,7 @@ I'm a Computer Science graduate who enjoys turning data and models into things t
 
 - 🔭 Building and integrating **ML & NLP pipelines** at **Zecser Business LLP**
 - 🌱 Learning **Generative AI, RAG, and Agentic AI** through the IBM Generative AI Engineering Professional Certificate
-- 💬 Happy to talk about **Machine Learning, NLP, Computer Vision, or Generative AI**
+- 💬 Happy to talk about **Machine Learning, NLP, or Generative AI**
 - 📈 Always looking to work on projects that go beyond notebooks and into something deployed and usable
 
 ---
