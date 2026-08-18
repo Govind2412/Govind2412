@@ -16,7 +16,7 @@ I'm a Computer Science graduate who enjoys turning data and models into things t
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (KTU) 
+- 🎓 B.Tech in Computer Science & Engineering, KTU (2021–2025)
 - ✅ **GATE 2026 Qualified** — Computer Science, with strong fundamentals in DSA, DBMS, OS, CN, and Compiler Design
 - 💼 Currently working as **AI Developer Intern @ Zecser Business LLP**, building and integrating ML/NLP pipelines on an AI-powered platform, with exposure to MLOps, model deployment, and CI/CD workflows
 - 🧠 Interested in **Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI, LLMs, NLP, Data Science, MLOps, and Cloud Deployment**
@@ -69,10 +69,6 @@ I'm a Computer Science graduate who enjoys turning data and models into things t
 **Tools & Platforms**
 <p>
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
@@ -81,13 +77,15 @@ I'm a Computer Science graduate who enjoys turning data and models into things t
 
 ### 🌟 Featured Projects
 
-- **[AI-Driven Online Exam Proctoring System](https://github.com/YOUR-USERNAME/REPO-NAME)**
+- **[AI-Driven Online Exam Proctoring System](https://github.com/govindprasad1/REPO-NAME)**
   A real-time AI monitoring system that uses trained ML models to flag multiple persons, unauthorized objects, and unusual sounds or movement during online exams. SQL/MySQL powers the logging and analysis layer behind it, turning raw model outputs into structured exam-monitoring data.
   `Python` `Machine Learning` `MySQL`
 
-- **[Sentiment Analysis in Movie Reviews](https://github.com/YOUR-USERNAME/REPO-NAME)**
+- **[Sentiment Analysis in Movie Reviews](https://github.com/govindprasad1/REPO-NAME)**
   A sequence-based NLP model built using tokenization and embedding techniques to classify IMDB movie reviews as positive or negative — reaching 90% accuracy and outperforming traditional ML baselines. Deployed on AWS EC2 so it can serve real-time predictions through a hosted application.
   `Python` `TensorFlow` `NLTK` `Scikit-Learn` `AWS EC2`
+
+> 💡 Pin these two repos on your profile (top-right of each repo → pin) so they show up right under this README.
 
 ---
 
